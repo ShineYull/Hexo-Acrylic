@@ -1,0 +1,5 @@
+- class_name: 赞赏
+  reward_list:
+    - name: 匿名好心人
+      amount: 10
+      datatime: 2023-1-16
